@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 😇 About Me:
 I'm working on some projects for work and learning<br>Ask me about things if you need help<br>Open issues on my project if you would like to<br>Mainly working on server side<br>
 
 
